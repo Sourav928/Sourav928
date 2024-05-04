@@ -10,11 +10,9 @@ import Tools from "./components/Tools";
 import { MyContext } from "./MyContext.js";
 
 function App() {
-  const [data, setData] = useState();
-
   return (
     <div>
-      <MyContext.Provider value={data}>
+      <MyContext.Provider>
         <NavBar />
         <Home />
         <About />
