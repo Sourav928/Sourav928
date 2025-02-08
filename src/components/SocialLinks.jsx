@@ -41,7 +41,7 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/SouravKhandekarIIITN.pdf",
+      href: "https://drive.google.com/file/d/1vOpczaR7TX9y60izx_fnbvQ3AAcyeyRX/view?usp=sharing",
       style: "rounded-br-md",
       download: true,
     },
